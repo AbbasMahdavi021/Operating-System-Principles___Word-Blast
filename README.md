@@ -6,14 +6,14 @@ Again, code should be neat, well documented.  Variables should have meaningful n
 ```
 /**************************************************************
 * Class:  CSC-415-0# Summer 2022
-* Name:
-* Student ID:
-* GitHub ID:
+* Name: Abbas Mahdavi   
+* Student ID: 9182***420
+* GitHub UserID: AbbasMahdavi021
 * Project: Assignment 4 – Word Blast
 *
-* File: <name of this file>
+* File: Mahdavi_Abbas_HW4_main.c
 *
-* Description:
+* Description: Parallel Word Count: Multithreaded program for word frequency count on "War and Peace" text file. Divides file into chunks processed by separate threads. Counts words with 6+ characters, aggregating results in shared memory. Displays top 10 words. Command-line params: file name, thread count. Measures execution times. Includes PDF write-up.
 *
 **************************************************************/
 ```
