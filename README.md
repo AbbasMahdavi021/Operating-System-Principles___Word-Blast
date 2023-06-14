@@ -13,7 +13,12 @@ Again, code should be neat, well documented.  Variables should have meaningful n
 *
 * File: Mahdavi_Abbas_HW4_main.c
 *
-* Description: Parallel Word Count: Multithreaded program for word frequency count on "War and Peace" text file. Divides file into chunks processed by separate threads. Counts words with 6+ characters, aggregating results in shared memory. Displays top 10 words. Command-line params: file name, thread count. Measures execution times. Includes PDF write-up.
+* Description: Parallel Word Count: Multithreaded program for 
+word frequency count on "War and Peace" text file. 
+Divides file into chunks processed by separate threads. 
+Counts words with 6+ characters, aggregating results in shared memory. 
+Displays top 10 words. Command-line params: file name, thread count. 
+Measures execution times. Includes PDF write-up.
 *
 **************************************************************/
 ```
